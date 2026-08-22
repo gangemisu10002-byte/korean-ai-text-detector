@@ -1,0 +1,36 @@
+# NOTICE
+
+## Third-party research and dataset
+
+This project uses the KatFish dataset and is inspired by the KatFishNet research.
+
+Park, Shinwoo; Kim, Shubin; Kim, Do-Kyung; Han, Yo-Sub. (2025).
+"KatFishNet: Detecting LLM-Generated Korean Text through Linguistic Feature Analysis."
+Proceedings of ACL 2025.
+
+Paper:
+https://aclanthology.org/2025.acl-long.1030/
+
+Original repository:
+https://github.com/Shinwoo-Park/detecting_llm_generated_korean_text_through_linguistic_analysis
+
+The KatFish dataset, original research, and original repository are not claimed
+as original work by this project. They remain attributed to their original authors.
+
+## Third-party software
+
+This project uses third-party open-source software, including:
+
+- Python
+- pandas
+- NumPy
+- SciPy
+- scikit-learn
+- joblib
+- kiwipiepy / Kiwi
+- Gradio
+- Jupyter
+
+Each dependency remains subject to its own license and terms.
+
+This NOTICE file does not replace, modify, or supersede any third-party license.
